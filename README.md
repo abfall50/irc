@@ -1,4 +1,4 @@
-# ft_irc
+# ft_irc - 42 school
 
 Complete creation of an IRC chat, creation of channel, message, friends list.
 
